@@ -1,0 +1,4 @@
+Q5. Difference between --force push and --force-with-lease, You have to show the use of both, also you have to show in what scenario --force-with-lease is used?
+=>  --force push => Override newly added commits and override them with local changes.
+=>  --force-with-lease 
+
