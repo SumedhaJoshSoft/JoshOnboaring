@@ -1,0 +1,10 @@
+Q1. What is cherry-pick? Explain the use case of it also write steps to do it.
+- Cherry picking in Git means to choose a commit from one branch and apply it onto another.
+- By providing the commit hash one can fetch the commit to the current working HEAD.
+- Steps to cherry-pick
+  1. Checkout to the branch where commit needs to be imported using following command
+     git checkout branchname
+  2. execute cherry-pick command with commit hash
+     git cherry-pick commitHash
+
+

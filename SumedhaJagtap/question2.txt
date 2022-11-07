@@ -1,0 +1,15 @@
+Q2. How to set multiple remote repositories for the same project? Explain the use case. you should have a working demo of it.
+- The default local repository is origin and suppose we need to link the local repo to another multiple repo we can use following steps:
+- To check all available remotes use following command:
+   git remote -v
+- To add new repo url to remoted use following command:
+  git remote add foo git@github.com:SumedhaJoshSoft/Foo.git
+    - foo is the alias for repo with url git@github.com:SumedhaJoshSoft/Foo.git
+    - we can add multiple remotes with respective alias and urls using the above command
+    - Also we can add single remote alias for multiple remotes
+- We can restrict the remote for fetch/push by using following command
+
+   git remote set-url [--push] <name> <newurl> [<oldurl>]
+   or: git remote set-url --add <name> <newurl>
+   or: git remote set-url --delete <name> <url>
+
