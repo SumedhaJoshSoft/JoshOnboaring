@@ -1,2 +1,2 @@
 Q4. How to delete one commit or multiple commits permanently Write command for it.
-
+=>
