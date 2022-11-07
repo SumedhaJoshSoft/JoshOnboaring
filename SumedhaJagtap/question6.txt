@@ -1,2 +1,2 @@
 Q5. How to un stage changes from the staged area. write command for it.
-
+- git reset HEAD => This will remove the changes from staged area(after git add and before git commit)
