@@ -1,0 +1,9 @@
+
+helloBob$helloalice#howareyou?#Iamgood.howareyou?$^wyquwyuqhuduhqwhdq
+alice : helloBob,bob : helloalice,bob : howareyou?,alice : Iamgood.howareyou?
+
+heyalice#heybob$$$howareyou#	
+bob : heyalice,alice : heybob,bob : howareyou	
+
+helloBob$helloalice#howareyou?#Iamgood.howareyou?$^dadad#dsd$
+alice : helloBob,bob : helloalice,bob : howareyou?,alice : Iamgood.howareyou?

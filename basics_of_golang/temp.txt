@@ -1,0 +1,1 @@
+strings.SplitN(a," ",1)
